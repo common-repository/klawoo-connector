@@ -1,0 +1,38 @@
+.wc_klawoo_import_progressbar {
+    height: 22px;
+    width: 325px;
+    margin-top: 6px;
+    border: 1px solid #2796b7;
+    background-color: #FFF;
+    text-align: center;
+    line-height: 20px;
+}
+
+.wc_klawoo_import_progressbar_label {
+    height: 100%;
+    color: #fff;
+    text-align: right;
+    line-height: 22px;
+    width: 0;
+    background-color: #278ab7;
+}
+
+#klawoo_dashboard_iframe {
+    position: absolute;
+    height:100%;
+    width:100%
+}
+
+.create_list_note {
+    display: block;
+    border: 1px solid #bb82a7;
+}
+
+.create_smtp_note {
+    display: block;
+    border: 1px solid #bb82a7;
+}
+
+.display_left {
+    float: left;
+}
